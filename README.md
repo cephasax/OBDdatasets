@@ -9,4 +9,9 @@ There are three experiments.
 
 https://www.kaggle.com/cephasax/obdii-ds3
 
+Full Master research - Portuguese
+https://repositorio.ufrn.br/jspui/handle/123456789/26017
+
 *It will be detailed soon...
+
+
